@@ -1,2 +1,2 @@
 # myrepo
-to track and record my thought
+to track and record my thoughts
