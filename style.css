@@ -1,0 +1,37 @@
+*{
+    margin: 40;
+    padding: 40;
+    font-family: sans-serif;
+}
+
+.content {
+    background-color: beige;
+    margin: 8px;
+    padding: 8px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.banner {
+    margin: 0%;
+    padding: 8px;
+    background-color: red;
+}
+
+.go-button {
+    background-color: white;
+    color: red;
+    border-color: white;
+    border-style: solid;
+    height: 24px;
+    width: 80px;
+    border-radius: 2px;
+    font-size: 12px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+
+
